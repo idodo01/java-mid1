@@ -12,9 +12,6 @@ public class ObjectPolyExample2 {
 
         Object[] objects = {dog, car, object};
 
-
-
-
         size(objects);
     }
 
